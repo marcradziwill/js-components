@@ -1,1 +1,0 @@
-{"version":3,"file":"component3-513155a5.js","sources":["../components/component3.js"],"sourcesContent":["const component3 = () => {\n  // JS code\n};\n\n\nexport default component3;"],"names":["component3"],"mappings":"AAAK,MAACA,EAAa"}
